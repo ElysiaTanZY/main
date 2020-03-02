@@ -1,7 +1,7 @@
 package seedu.address;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static seedu.address.AppParameters.*;
+import static seedu.address.AppParameters.parse;
 
 import java.nio.file.Paths;
 import java.util.Collections;
